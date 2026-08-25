@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="460" viewBox="0 0 980 460">
+<rect width="980" height="460" fill="#f9f9f7"/>
+<text x="32" y="42" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="#0b0b0b">E-commerce Funnel — Sessions to Purchase</text>
+<text x="32" y="64" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#898781">12 months, synthetic data · dashboard concept, mirrors Power BI Page 3</text>
+<text x="204" y="121.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="end">Sessions</text>
+<text x="204" y="139.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781" text-anchor="end">278,020</text>
+<rect x="220" y="100" width="380.0" height="48" rx="6" fill="#2a78d6" opacity="1.00"/>
+<text x="204" y="199.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="end">Add to Cart</text>
+<text x="204" y="217.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781" text-anchor="end">27,516</text>
+<rect x="220" y="178" width="64.6" height="48" rx="6" fill="#2a78d6" opacity="0.84"/>
+<text x="640" y="196.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#0b0b0b">9.9% continue</text>
+<text x="640" y="214.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#e34948">90.1% drop-off</text>
+<text x="204" y="277.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="end">Checkout</text>
+<text x="204" y="295.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781" text-anchor="end">16,715</text>
+<rect x="220" y="256" width="51.0" height="48" rx="6" fill="#2a78d6" opacity="0.68"/>
+<text x="640" y="274.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#0b0b0b">60.7% continue</text>
+<text x="640" y="292.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#e34948">39.3% drop-off</text>
+<text x="204" y="355.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="end">Purchase</text>
+<text x="204" y="373.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781" text-anchor="end">11,312</text>
+<rect x="220" y="334" width="44.2" height="48" rx="6" fill="#2a78d6" opacity="0.52"/>
+<text x="640" y="352.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#0b0b0b">67.7% continue</text>
+<text x="640" y="370.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#e34948">32.3% drop-off</text>
+<text x="32" y="432" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#52514e">Overall conversion rate (sessions to purchase): 4.07% · Revenue per session: EUR 5.62</text>
+<text x="32" y="456" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#898781">Biggest single drop-off: sessions to add-to-cart (90.1% of sessions never add a product to cart).</text>
+</svg>
