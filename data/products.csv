@@ -1,0 +1,151 @@
+product_id,category,brand,vehicle_type,price,cost,stock,oem_reference
+P1000,Engine Parts,Bilstein-Type,Compact SUV,242.23,110.8,227,OEM-770487
+P1001,Transmission,Bilstein-Type,Off-Road Buggy,353.21,181.67,110,OEM-216739
+P1002,Body & Exterior,OEM-Line,Off-Road Buggy,179.75,97.89,469,OEM-126225
+P1003,Lighting,DuraParts,Off-Road Buggy,72.95,42.94,33,OEM-877572
+P1004,Suspension,Brembo-Style,Pickup Truck,277.9,142.37,110,OEM-388389
+P1005,Suspension,RockGuard,Compact SUV,277.97,133.6,263,OEM-356787
+P1006,Suspension,TrailForce,4x4 SUV,264.1,123.47,423,OEM-334053
+P1007,Cooling System,Brembo-Style,Van,136.0,90.62,368,OEM-246316
+P1008,Lighting,ProFit,4x4 SUV,84.06,45.88,235,OEM-872246
+P1009,Body & Exterior,DuraParts,Compact SUV,178.8,104.36,82,OEM-207473
+P1010,Suspension,ProFit,Van,211.21,139.7,41,OEM-809570
+P1011,Transmission,NorthTrail,Compact SUV,225.84,105.93,424,OEM-876646
+P1012,Cooling System,TrailForce,Off-Road Buggy,155.23,101.15,100,OEM-671858
+P1013,Braking System,NorthTrail,Van,134.96,77.85,5,OEM-191161
+P1014,Braking System,OEM-Line,Off-Road Buggy,116.46,56.82,179,OEM-719176
+P1015,Braking System,ProFit,4x4 SUV,134.94,73.49,281,OEM-542417
+P1016,Engine Parts,OEM-Line,4x4 SUV,275.33,173.14,319,OEM-133326
+P1017,Filters,Bilstein-Type,Van,17.75,9.95,225,OEM-131244
+P1018,Engine Parts,NorthTrail,Van,192.27,130.09,442,OEM-198246
+P1019,Braking System,DuraParts,Compact SUV,77.39,41.53,439,OEM-329258
+P1020,Lighting,ProFit,Compact SUV,58.64,36.5,314,OEM-343962
+P1021,Suspension,RockGuard,Off-Road Buggy,115.01,62.15,364,OEM-629903
+P1022,Braking System,TrailForce,Van,115.73,74.15,453,OEM-731262
+P1023,Engine Parts,Brembo-Style,4x4 SUV,206.04,119.69,228,OEM-127824
+P1024,Filters,DuraParts,Compact SUV,27.63,12.84,376,OEM-688508
+P1025,Cooling System,DuraParts,Compact SUV,108.39,49.69,288,OEM-308496
+P1026,Braking System,OEM-Line,4x4 SUV,121.75,58.54,436,OEM-850800
+P1027,Filters,NorthTrail,Compact SUV,20.69,9.38,149,OEM-781453
+P1028,Lighting,ProFit,Off-Road Buggy,51.64,24.13,276,OEM-835392
+P1029,Suspension,ProFit,Van,197.29,120.17,197,OEM-671412
+P1030,Lighting,Bilstein-Type,4x4 SUV,77.57,44.44,69,OEM-539898
+P1031,Braking System,Bilstein-Type,Van,90.09,56.08,111,OEM-331148
+P1032,Suspension,TrailForce,Compact SUV,276.6,182.56,3,OEM-571029
+P1033,Transmission,OEM-Line,Compact SUV,198.15,115.84,349,OEM-717889
+P1034,Transmission,DuraParts,4x4 SUV,315.56,194.7,330,OEM-391704
+P1035,Cooling System,ProFit,Off-Road Buggy,172.43,107.62,445,OEM-948749
+P1036,Engine Parts,RockGuard,Pickup Truck,252.55,135.6,317,OEM-106814
+P1037,Suspension,OEM-Line,4x4 SUV,184.22,93.11,349,OEM-895667
+P1038,Body & Exterior,TrailForce,Pickup Truck,163.59,81.33,94,OEM-944962
+P1039,Engine Parts,TrailForce,Pickup Truck,258.7,131.38,151,OEM-267414
+P1040,Suspension,OEM-Line,Off-Road Buggy,239.7,123.01,310,OEM-832052
+P1041,Filters,TrailForce,Pickup Truck,16.01,7.97,136,OEM-543143
+P1042,Suspension,OEM-Line,Pickup Truck,153.0,99.75,246,OEM-456778
+P1043,Transmission,Brembo-Style,Off-Road Buggy,365.97,228.41,386,OEM-391369
+P1044,Braking System,OEM-Line,Pickup Truck,139.38,64.22,242,OEM-263032
+P1045,Body & Exterior,NorthTrail,Pickup Truck,162.66,83.25,30,OEM-325772
+P1046,Engine Parts,OEM-Line,Pickup Truck,184.49,83.96,39,OEM-900581
+P1047,Filters,TrailForce,4x4 SUV,28.16,15.9,228,OEM-452944
+P1048,Filters,ProFit,4x4 SUV,29.48,16.49,35,OEM-207175
+P1049,Braking System,NorthTrail,4x4 SUV,79.63,51.06,407,OEM-197251
+P1050,Transmission,TrailForce,Off-Road Buggy,303.1,157.85,222,OEM-498382
+P1051,Body & Exterior,Bilstein-Type,Compact SUV,158.81,101.28,5,OEM-201414
+P1052,Transmission,Bilstein-Type,Pickup Truck,339.93,228.65,321,OEM-476417
+P1053,Transmission,ProFit,Pickup Truck,306.78,144.29,467,OEM-988662
+P1054,Lighting,ProFit,Off-Road Buggy,53.86,34.05,219,OEM-460663
+P1055,Transmission,NorthTrail,Pickup Truck,217.0,127.09,74,OEM-733052
+P1056,Suspension,Brembo-Style,4x4 SUV,117.63,65.92,3,OEM-377370
+P1057,Braking System,ProFit,Compact SUV,148.06,80.95,334,OEM-946335
+P1058,Suspension,Bilstein-Type,Van,260.49,164.23,133,OEM-145561
+P1059,Engine Parts,OEM-Line,Pickup Truck,210.08,125.43,117,OEM-865179
+P1060,Engine Parts,TrailForce,4x4 SUV,342.5,217.54,368,OEM-581741
+P1061,Braking System,Bilstein-Type,Van,121.29,79.78,93,OEM-662275
+P1062,Cooling System,Bilstein-Type,Compact SUV,119.08,70.49,485,OEM-230889
+P1063,Engine Parts,Brembo-Style,Van,240.47,162.44,434,OEM-496922
+P1064,Braking System,NorthTrail,4x4 SUV,64.91,38.29,61,OEM-182627
+P1065,Filters,NorthTrail,Van,15.22,9.08,440,OEM-678856
+P1066,Suspension,DuraParts,Off-Road Buggy,216.44,125.02,193,OEM-407419
+P1067,Cooling System,Brembo-Style,Van,126.91,59.77,334,OEM-969693
+P1068,Suspension,OEM-Line,Pickup Truck,146.29,90.27,202,OEM-759176
+P1069,Transmission,NorthTrail,Pickup Truck,479.32,276.05,391,OEM-748564
+P1070,Body & Exterior,TrailForce,Off-Road Buggy,193.38,107.08,25,OEM-479201
+P1071,Braking System,ProFit,4x4 SUV,67.78,44.69,434,OEM-705397
+P1072,Suspension,Brembo-Style,Pickup Truck,275.57,142.89,172,OEM-301629
+P1073,Cooling System,ProFit,Compact SUV,173.17,98.78,299,OEM-838797
+P1074,Body & Exterior,Bilstein-Type,Pickup Truck,223.43,136.39,132,OEM-172933
+P1075,Body & Exterior,TrailForce,Pickup Truck,91.82,58.14,325,OEM-148050
+P1076,Body & Exterior,TrailForce,4x4 SUV,187.18,104.01,409,OEM-793384
+P1077,Suspension,Bilstein-Type,Van,206.26,132.77,117,OEM-338968
+P1078,Engine Parts,Brembo-Style,Pickup Truck,287.28,180.08,323,OEM-910620
+P1079,Suspension,Bilstein-Type,Off-Road Buggy,282.36,131.36,274,OEM-403445
+P1080,Cooling System,ProFit,Van,141.68,65.25,211,OEM-183667
+P1081,Lighting,DuraParts,Compact SUV,86.22,51.11,224,OEM-996865
+P1082,Engine Parts,TrailForce,4x4 SUV,322.71,171.01,19,OEM-344098
+P1083,Suspension,RockGuard,Compact SUV,258.93,128.97,112,OEM-205907
+P1084,Engine Parts,RockGuard,Van,225.74,131.68,139,OEM-498591
+P1085,Engine Parts,ProFit,Van,180.97,95.65,46,OEM-391476
+P1086,Body & Exterior,OEM-Line,Van,139.53,80.03,0,OEM-575435
+P1087,Lighting,NorthTrail,Compact SUV,89.51,49.75,89,OEM-766563
+P1088,Cooling System,Bilstein-Type,Van,82.13,48.0,141,OEM-974628
+P1089,Filters,Bilstein-Type,Compact SUV,24.49,13.28,319,OEM-482554
+P1090,Suspension,OEM-Line,Van,149.98,91.56,37,OEM-270555
+P1091,Body & Exterior,OEM-Line,Off-Road Buggy,165.38,81.27,292,OEM-488162
+P1092,Body & Exterior,ProFit,Van,204.84,124.99,381,OEM-472528
+P1093,Filters,ProFit,Compact SUV,32.57,17.74,138,OEM-319684
+P1094,Body & Exterior,OEM-Line,Pickup Truck,117.14,76.27,355,OEM-802729
+P1095,Filters,TrailForce,Van,33.17,18.86,332,OEM-379946
+P1096,Filters,ProFit,Pickup Truck,26.22,17.67,490,OEM-835911
+P1097,Engine Parts,DuraParts,Off-Road Buggy,209.05,123.01,258,OEM-816751
+P1098,Suspension,ProFit,4x4 SUV,235.47,118.08,160,OEM-779514
+P1099,Suspension,Bilstein-Type,Off-Road Buggy,194.7,124.42,389,OEM-174870
+P1100,Suspension,ProFit,Van,176.04,93.19,177,OEM-738720
+P1101,Lighting,TrailForce,Pickup Truck,78.31,41.5,9,OEM-765822
+P1102,Engine Parts,OEM-Line,Pickup Truck,186.72,85.39,260,OEM-279451
+P1103,Filters,Bilstein-Type,Compact SUV,20.47,11.79,406,OEM-660086
+P1104,Transmission,ProFit,Pickup Truck,320.68,183.72,137,OEM-864544
+P1105,Braking System,TrailForce,Compact SUV,81.1,43.14,171,OEM-356702
+P1106,Engine Parts,DuraParts,4x4 SUV,221.14,144.99,385,OEM-271339
+P1107,Body & Exterior,ProFit,Van,164.01,78.66,12,OEM-584714
+P1108,Braking System,TrailForce,Compact SUV,127.39,67.0,167,OEM-497887
+P1109,Suspension,DuraParts,4x4 SUV,246.1,128.95,129,OEM-383060
+P1110,Braking System,OEM-Line,Pickup Truck,135.17,63.7,83,OEM-771088
+P1111,Braking System,ProFit,Pickup Truck,127.7,71.6,320,OEM-821590
+P1112,Transmission,DuraParts,4x4 SUV,397.12,241.52,318,OEM-684004
+P1113,Cooling System,Bilstein-Type,Pickup Truck,92.13,52.3,100,OEM-330283
+P1114,Lighting,OEM-Line,4x4 SUV,60.01,29.17,328,OEM-817870
+P1115,Cooling System,Bilstein-Type,Compact SUV,118.55,63.63,272,OEM-440035
+P1116,Cooling System,RockGuard,Compact SUV,75.12,33.85,264,OEM-983794
+P1117,Braking System,Brembo-Style,4x4 SUV,107.2,69.65,458,OEM-905635
+P1118,Transmission,ProFit,Compact SUV,321.26,150.81,398,OEM-913694
+P1119,Filters,DuraParts,Compact SUV,30.85,18.12,407,OEM-158655
+P1120,Cooling System,Brembo-Style,Compact SUV,173.57,117.48,37,OEM-340174
+P1121,Transmission,Brembo-Style,Off-Road Buggy,358.36,205.49,418,OEM-961722
+P1122,Engine Parts,DuraParts,Van,202.99,134.49,93,OEM-133659
+P1123,Suspension,OEM-Line,Pickup Truck,115.81,58.4,94,OEM-944151
+P1124,Braking System,ProFit,Off-Road Buggy,144.84,90.49,304,OEM-430776
+P1125,Engine Parts,RockGuard,Compact SUV,334.21,191.23,68,OEM-520651
+P1126,Cooling System,Bilstein-Type,4x4 SUV,93.83,57.77,317,OEM-380746
+P1127,Cooling System,TrailForce,Compact SUV,142.5,66.17,443,OEM-169403
+P1128,Suspension,Bilstein-Type,Van,121.58,58.84,235,OEM-321231
+P1129,Filters,TrailForce,Compact SUV,16.86,8.1,433,OEM-694731
+P1130,Engine Parts,Bilstein-Type,4x4 SUV,179.7,109.27,333,OEM-852787
+P1131,Braking System,DuraParts,Van,84.98,54.75,372,OEM-429963
+P1132,Suspension,RockGuard,Compact SUV,287.25,178.79,375,OEM-322955
+P1133,Engine Parts,ProFit,Van,285.32,130.39,458,OEM-787277
+P1134,Transmission,TrailForce,Pickup Truck,305.1,198.15,136,OEM-623481
+P1135,Engine Parts,ProFit,Pickup Truck,294.16,156.33,417,OEM-514850
+P1136,Filters,ProFit,Compact SUV,33.34,18.05,75,OEM-774079
+P1137,Body & Exterior,ProFit,Van,218.22,103.46,482,OEM-581141
+P1138,Engine Parts,NorthTrail,4x4 SUV,144.73,89.68,34,OEM-249811
+P1139,Transmission,OEM-Line,Compact SUV,308.3,151.66,0,OEM-377746
+P1140,Transmission,Bilstein-Type,Pickup Truck,219.09,127.01,295,OEM-246413
+P1141,Braking System,ProFit,Pickup Truck,88.89,57.19,319,OEM-358607
+P1142,Filters,Bilstein-Type,Compact SUV,16.93,7.97,405,OEM-881177
+P1143,Engine Parts,ProFit,Van,274.31,157.21,59,OEM-688637
+P1144,Braking System,TrailForce,Pickup Truck,93.89,47.29,319,OEM-665158
+P1145,Suspension,OEM-Line,Van,149.29,78.96,348,OEM-375504
+P1146,Lighting,OEM-Line,Pickup Truck,51.96,29.05,327,OEM-883300
+P1147,Filters,DuraParts,Pickup Truck,21.13,11.23,266,OEM-712982
+P1148,Suspension,NorthTrail,Off-Road Buggy,154.79,92.75,360,OEM-549245
+P1149,Braking System,DuraParts,Pickup Truck,100.06,56.06,228,OEM-711878
